@@ -1,0 +1,12 @@
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\bin\Debug\net5.0\SF.VA.BLL.Interface.deps.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\bin\Debug\net5.0\SF.VA.BLL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\bin\Debug\net5.0\ref\SF.VA.BLL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\bin\Debug\net5.0\SF.VA.BLL.Interface.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.csproj.AssemblyReference.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.AssemblyInfoInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.AssemblyInfo.cs
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\ref\SF.VA.BLL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.pdb

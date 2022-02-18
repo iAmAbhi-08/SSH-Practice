@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SF.VA.BLL.Interface\SF.VA.BLL.Interface.csproj" />
+    <ProjectReference Include="..\SF.VA.BLL\SF.VA.BLL.csproj" />
+    <ProjectReference Include="..\SF.VA.DAL\SF.VA.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.API\\SF.VA.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.API\\SF.VA.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.API\\SF.VA.API.csproj",
+        "projectName": "SF.VA.API",
+        "projectPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.API\\SF.VA.API.csproj",
+        "packagesPath": "C:\\Users\\Abhishek Ingale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhishek Ingale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL.Interface\\SF.VA.BLL.Interface.csproj": {
+                "projectPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL.Interface\\SF.VA.BLL.Interface.csproj"
+              },
+              "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL\\SF.VA.BLL.csproj": {
+                "projectPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL\\SF.VA.BLL.csproj"
+              },
+              "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.DAL\\SF.VA.DAL.csproj": {
+                "projectPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.DAL\\SF.VA.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL.Interface\\SF.VA.BLL.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL.Interface\\SF.VA.BLL.Interface.csproj",
+        "projectName": "SF.VA.BLL.Interface",
+        "projectPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL.Interface\\SF.VA.BLL.Interface.csproj",
+        "packagesPath": "C:\\Users\\Abhishek Ingale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhishek Ingale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL\\SF.VA.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL\\SF.VA.BLL.csproj",
+        "projectName": "SF.VA.BLL",
+        "projectPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL\\SF.VA.BLL.csproj",
+        "packagesPath": "C:\\Users\\Abhishek Ingale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhishek Ingale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL.Interface\\SF.VA.BLL.Interface.csproj": {
+                "projectPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.BLL.Interface\\SF.VA.BLL.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.DAL\\SF.VA.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.DAL\\SF.VA.DAL.csproj",
+        "projectName": "SF.VA.DAL",
+        "projectPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.DAL\\SF.VA.DAL.csproj",
+        "packagesPath": "C:\\Users\\Abhishek Ingale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abhishek Ingale\\source\\repos\\SF.VA\\SF.VA.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhishek Ingale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

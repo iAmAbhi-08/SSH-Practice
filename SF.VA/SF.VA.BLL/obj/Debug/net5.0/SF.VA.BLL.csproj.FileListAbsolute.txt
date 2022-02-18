@@ -1,0 +1,15 @@
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.BLL.deps.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.BLL.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\ref\SF.VA.BLL.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.BLL.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.BLL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.BLL.Interface.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.csproj.AssemblyReference.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.AssemblyInfoInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.AssemblyInfo.cs
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.csproj.CopyComplete
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\ref\SF.VA.BLL.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.pdb

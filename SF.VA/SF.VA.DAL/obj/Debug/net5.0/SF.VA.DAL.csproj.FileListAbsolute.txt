@@ -1,0 +1,12 @@
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\bin\Debug\net5.0\SF.VA.DAL.deps.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\bin\Debug\net5.0\SF.VA.DAL.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\bin\Debug\net5.0\ref\SF.VA.DAL.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\bin\Debug\net5.0\SF.VA.DAL.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\obj\Debug\net5.0\SF.VA.DAL.csproj.AssemblyReference.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\obj\Debug\net5.0\SF.VA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\obj\Debug\net5.0\SF.VA.DAL.AssemblyInfoInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\obj\Debug\net5.0\SF.VA.DAL.AssemblyInfo.cs
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\obj\Debug\net5.0\SF.VA.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\obj\Debug\net5.0\SF.VA.DAL.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\obj\Debug\net5.0\ref\SF.VA.DAL.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL\obj\Debug\net5.0\SF.VA.DAL.pdb

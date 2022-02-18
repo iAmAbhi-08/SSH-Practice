@@ -1,0 +1,12 @@
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\bin\Debug\net5.0\SF.VA.DAL.Interface.deps.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\bin\Debug\net5.0\SF.VA.DAL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\bin\Debug\net5.0\ref\SF.VA.DAL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\bin\Debug\net5.0\SF.VA.DAL.Interface.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.csproj.AssemblyReference.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.AssemblyInfoInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.AssemblyInfo.cs
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\ref\SF.VA.DAL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.pdb
