@@ -10,3 +10,9 @@ C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.dll
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\ref\SF.VA.DAL.Interface.dll
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\bin\Debug\net5.0\SF.VA.DAL.Interface.runtimeconfig.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\bin\Debug\net5.0\SF.VA.DAL.Interface.runtimeconfig.dev.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.genruntimeconfig.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\bin\Debug\net5.0\SF.VA.Models.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\bin\Debug\net5.0\SF.VA.Models.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.DAL.Interface\obj\Debug\net5.0\SF.VA.DAL.Interface.csproj.CopyComplete

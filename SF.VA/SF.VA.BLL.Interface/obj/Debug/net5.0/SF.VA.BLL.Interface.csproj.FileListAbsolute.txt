@@ -10,3 +10,9 @@ C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.dll
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\ref\SF.VA.BLL.Interface.dll
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\bin\Debug\net5.0\SF.VA.BLL.Interface.runtimeconfig.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\bin\Debug\net5.0\SF.VA.BLL.Interface.runtimeconfig.dev.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.genruntimeconfig.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\bin\Debug\net5.0\SF.VA.Models.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\bin\Debug\net5.0\SF.VA.Models.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL.Interface\obj\Debug\net5.0\SF.VA.BLL.Interface.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\bin\Debug\net5.0\SF.VA.Models.deps.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\bin\Debug\net5.0\SF.VA.Models.runtimeconfig.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\bin\Debug\net5.0\SF.VA.Models.runtimeconfig.dev.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\bin\Debug\net5.0\SF.VA.Models.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\bin\Debug\net5.0\ref\SF.VA.Models.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\bin\Debug\net5.0\SF.VA.Models.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\SF.VA.Models.csproj.AssemblyReference.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\SF.VA.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\SF.VA.Models.AssemblyInfoInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\SF.VA.Models.AssemblyInfo.cs
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\SF.VA.Models.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\SF.VA.Models.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\ref\SF.VA.Models.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\SF.VA.Models.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.Models\obj\Debug\net5.0\SF.VA.Models.genruntimeconfig.cache

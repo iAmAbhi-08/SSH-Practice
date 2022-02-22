@@ -1,7 +1,9 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -9,7 +11,12 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using SF.VA.API.Models;
 using SF.VA.BLL;
+using SF.VA.BLL.AutoMapperProfiles;
 using SF.VA.BLL.Interface;
+using SF.VA.DAL;
+using SF.VA.DAL.EF;
+using SF.VA.DAL.Interface;
+using SF.VA.DAL.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,6 +47,14 @@ namespace SF.VA.API
             
             services.AddScoped<IHttpClientHelper, HttpClientHelper>()
                 .AddLogging();
+
+            services.AddDbContext<ProductDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<IProductRepositoryService, ProductRepositoryService>();
+
+            services.AddAutoMapper(typeof(ProductAutoMapperProfile));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SF.VA.Models.EF
+{
+    public class Products
+    {
+        [Key]
+        public int ProductId { get; set; }
+
+        public string ProductName { get; set; }
+
+        public double ProductCost { get; set; }
+
+        public double ProductPurchaseCost { get; set; }
+    }
+}

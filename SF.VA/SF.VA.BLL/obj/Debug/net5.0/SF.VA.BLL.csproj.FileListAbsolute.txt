@@ -13,3 +13,10 @@ C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.dll
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\ref\SF.VA.BLL.dll
 C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.BLL.runtimeconfig.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.BLL.runtimeconfig.dev.json
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\obj\Debug\net5.0\SF.VA.BLL.genruntimeconfig.cache
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.DAL.Interface.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.Models.dll
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.DAL.Interface.pdb
+C:\Users\Abhishek Ingale\source\repos\SF.VA\SF.VA.BLL\bin\Debug\net5.0\SF.VA.Models.pdb
